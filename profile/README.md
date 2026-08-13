@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ImpracticalGames/.github/main/assets/boli-games-banner.jpg" alt="Boli Games — Escondite entre la manada" width="100%" />
+<img src="https://raw.githubusercontent.com/Boli-Games/.github/main/assets/boli-banner.jpg" alt="Boli Games — Escondite entre la manada" width="100%" />
 
 <br /><br />
 
@@ -11,7 +11,7 @@
 
 </div>
 
-### 👋 Bienvenido a Impractical Games
+### 👋 Bienvenido a Boli Games
 
 Hacemos juegos que se sienten un poco imposibles — y por eso dan ganas de jugarlos.
 
@@ -104,7 +104,7 @@ Los repositorios de abajo son el código abierto del juego: cliente Three.js + s
 ### 🚀 Desarrollo local
 
 ```bash
-git clone https://github.com/ImpracticalGames/Boli.git
+git clone https://github.com/Boli-Games/Boli.git
 cd Boli
 npm install
 npm run party:dev   # Wrangler → salas en 127.0.0.1:8787
@@ -133,16 +133,16 @@ Por repositorio. Ver cada repo para los detalles.
 >
 > **Probalo:** [abrí Boli][game-link] → **Jugar solo** para aprender el ritmo → **Crear partida** y mandale el código a un amigo. El que se mueva raro… no es boli.
 
-[github-link]: https://github.com/ImpracticalGames
-[github-shield]: https://img.shields.io/badge/org-Impractical%20Games-2F6BFF?labelColor=111111&style=flat-square&logo=github&logoColor=white
+[github-link]: https://github.com/Boli-Games
+[github-shield]: https://img.shields.io/badge/org-Boli%20Games-2F6BFF?labelColor=111111&style=flat-square&logo=github&logoColor=white
 
-[game-link]: https://github.com/ImpracticalGames/Boli
+[game-link]: https://github.com/Boli-Games/Boli
 [game-shield]: https://img.shields.io/badge/game-Boli-2F6BFF?labelColor=111111&style=flat-square&logo=github&logoColor=white
 
 [rooms-link]: https://boli-rooms.wealthy-piper.workers.dev
 [rooms-shield]: https://img.shields.io/badge/rooms-Cloudflare%20Workers-2F6BFF?labelColor=111111&style=flat-square&logo=cloudflare&logoColor=white
 
-[stack-link]: https://github.com/ImpracticalGames/Boli#desarrollo
+[stack-link]: https://github.com/Boli-Games/Boli#desarrollo
 [stack-shield]: https://img.shields.io/badge/stack-Three.js%20%2B%20Vite-2F6BFF?labelColor=111111&style=flat-square&logo=threedotjs&logoColor=white
 
 [lang-typescript]: https://img.shields.io/badge/typescript-2F6BFF?labelColor=111111&style=flat-square&logo=typescript&logoColor=white
