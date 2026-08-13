@@ -3,7 +3,7 @@
 Org profile and shared GitHub assets.
 
 <div align="center">
-<img src="./assets/boli-games-org-banner.jpg" alt="Boli Games" width="100%" />
+<img src="./assets/boli-games-banner.jpg" alt="Boli Games" width="100%" />
 </div>
 
 - **Profile README:** [`profile/README.md`](./profile/README.md) (shown on [github.com/Boli-Games](https://github.com/Boli-Games))
