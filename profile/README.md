@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="header.jpg" alt="Boli Games — Escondite entre la manada" width="100%" />
+
+<br /><br />
+
 [![github][github-shield]][github-link]
 [![play source][game-shield]][game-link]
 [![rooms][rooms-shield]][rooms-link]
