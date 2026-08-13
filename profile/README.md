@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/banner.svg" alt="Boli — Escondite entre la manada" width="100%" />
+<img src="../assets/banner.png" alt="Boli Games — Escondite entre la manada" width="100%" />
 
 <br /><br />
 
@@ -134,16 +134,16 @@ Por repositorio. Ver cada repo para los detalles.
 > **Probalo:** [abrí Boli][game-link] → **Jugar solo** para aprender el ritmo → **Crear partida** y mandale el código a un amigo. El que se mueva raro… no es boli.
 
 [github-link]: https://github.com/ImpracticalGames
-[github-shield]: https://img.shields.io/badge/org-Impractical%20Games-C9B48A?labelColor=12151A&style=flat-square&logo=github&logoColor=F3EAD2
+[github-shield]: https://img.shields.io/badge/org-Impractical%20Games-2F6BFF?labelColor=111111&style=flat-square&logo=github&logoColor=white
 
 [game-link]: https://github.com/ImpracticalGames/Boli
-[game-shield]: https://img.shields.io/badge/game-Boli-C9B48A?labelColor=12151A&style=flat-square&logo=github&logoColor=F3EAD2
+[game-shield]: https://img.shields.io/badge/game-Boli-2F6BFF?labelColor=111111&style=flat-square&logo=github&logoColor=white
 
 [rooms-link]: https://boli-rooms.wealthy-piper.workers.dev
-[rooms-shield]: https://img.shields.io/badge/rooms-Cloudflare%20Workers-C9B48A?labelColor=12151A&style=flat-square&logo=cloudflare&logoColor=F3EAD2
+[rooms-shield]: https://img.shields.io/badge/rooms-Cloudflare%20Workers-2F6BFF?labelColor=111111&style=flat-square&logo=cloudflare&logoColor=white
 
 [stack-link]: https://github.com/ImpracticalGames/Boli#desarrollo
-[stack-shield]: https://img.shields.io/badge/stack-Three.js%20%2B%20Vite-C9B48A?labelColor=12151A&style=flat-square&logo=threedotjs&logoColor=F3EAD2
+[stack-shield]: https://img.shields.io/badge/stack-Three.js%20%2B%20Vite-2F6BFF?labelColor=111111&style=flat-square&logo=threedotjs&logoColor=white
 
-[lang-typescript]: https://img.shields.io/badge/typescript-C9B48A?labelColor=12151A&style=flat-square&logo=typescript&logoColor=12151A
-[lang-workers]: https://img.shields.io/badge/workers-C9B48A?labelColor=12151A&style=flat-square&logo=cloudflare&logoColor=12151A
+[lang-typescript]: https://img.shields.io/badge/typescript-2F6BFF?labelColor=111111&style=flat-square&logo=typescript&logoColor=white
+[lang-workers]: https://img.shields.io/badge/workers-2F6BFF?labelColor=111111&style=flat-square&logo=cloudflare&logoColor=white
