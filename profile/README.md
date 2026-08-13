@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Boli-Games/.github/main/assets/boli-banner.jpg" alt="Boli Games — Escondite entre la manada" width="100%" />
+<img src="../assets/boli-banner.jpg" alt="Boli Games — Escondite entre la manada" width="100%" />
 
 <br /><br />
 
